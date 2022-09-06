@@ -20,6 +20,17 @@ Here a deep learning architecture for the identification of gender, profession a
 ## Data Extension
 During our participation in PoliticEs 2022, it was decided to extend the original dataset, collecting tweets from Spanish politicians and journalists posted between January 2021 and February 2022. The result can be found [here](https://github.com/ssantamaria94/PoliticES2022/tree/main/data)
 
+## Results
+
+Classification Task | Macro F1-score|
+--- | --- 
+Gender | 0.902868
+Profession | 0.944327
+Ideology Binary | 0.961623
+Ideology Multiclass | 0.800229
+--- | --- 
+Average Macro F1 | 0.902262
+
 ## Citation
 [LosCalis at PoliticEs 2022: Political Author Profiling using BETO and MarIA](http://ceur-ws.org/Vol-3202/politices-paper1.pdf)
 To cite this resource in a publication please use the following:
