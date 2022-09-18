@@ -36,10 +36,11 @@ Average Macro F1 | 0.902262
 To cite this resource in a publication please use the following:
 
 ```
-@article{carrasco2022loscalis,
+@inproceedings{carrasco2022loscalis,
   title={LosCalis at PoliticEs 2022: Political Author Profiling using BETO and MarIA},
   author={Carrasco, Sergio Santamaria and Rosillo, Roberto Cuervo},
-  journal={IberLEF@ SEPLN},
+  booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2022). CEUR Workshop Proceedings, CEUR-WS, A Coruna, Spain},
   year={2022}
 }
+
 ```
